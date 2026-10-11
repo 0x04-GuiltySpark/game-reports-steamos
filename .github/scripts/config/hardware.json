@@ -146,6 +146,18 @@
             "supports_vrr": false,
             "max_tdp_w": 28,
             "max_gpu_clk": 2700
+        },
+        {
+            "name": "Valve Steam Machine",
+            "aliases": [
+                "Steam Machine"
+            ],
+            "battery_size_wh": 0,
+            "max_display_resolution": "3840x2160",
+            "max_refresh_rate": 120,
+            "supports_vrr": true,
+            "max_tdp_w": 110,
+            "max_gpu_clk": 2450
         }
     ]
 }
